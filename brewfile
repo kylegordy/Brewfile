@@ -4,6 +4,7 @@ upgrade
 install cmatrix
 install drush
 install git
+install tmux
 install tree
 install wget
 install youtube-dl
