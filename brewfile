@@ -4,6 +4,9 @@ upgrade
 install cmatrix
 install drush
 install git
+install grep
+install python3
+install sqlite
 install tmux
 install tree
 install wget
