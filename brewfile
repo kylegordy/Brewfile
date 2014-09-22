@@ -5,6 +5,7 @@ install cmatrix
 install drush
 install git
 install grep
+install ngrok
 install python3
 install sqlite
 install tmux
