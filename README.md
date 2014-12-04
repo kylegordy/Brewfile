@@ -1,7 +1,11 @@
-# Simple Brewfile Usage
+# Simple Brew Install Script
+
+This helps me get a new Mac up and running super quick.
+
+### Running the script
 
 ~~~ sh
-$ brew bundle ./path-to-brewfile/brewfile
+$ ./brew-install.sh
 ~~~
 
-Learn more about Brewfiles [here](http://robots.thoughtbot.com/brewfile-a-gemfile-but-for-homebrew).
+Learn more about Brew install scripts [here](http://lapwinglabs.com/blog/hacker-guide-to-setting-up-your-mac).
