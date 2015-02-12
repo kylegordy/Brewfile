@@ -46,7 +46,6 @@ brew tap caskroom/versions
 # Apps
 apps=(
 adobe-creative-cloud
-alfred
 android-file-transfer
 atom
 crashplan
@@ -64,6 +63,7 @@ libreoffice
 licecap
 namechanger
 opera
+postgres
 private-internet-access
 sequel-pro
 sketch
@@ -82,9 +82,6 @@ vlc
 # Default is: /Users/$user/Applications
 echo "installing apps..."
 brew cask install --appdir="/Applications" ${apps[@]}
-
-# Link cask apps to Alfred
-brew cask alfred link
 
 # Cleanup
 brew cask cleanup
