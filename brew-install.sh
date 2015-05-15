@@ -23,6 +23,7 @@ git
 grep
 ngrok
 node
+pngcrush
 python3
 sqlite
 tmux
@@ -52,9 +53,11 @@ crashplan
 cyberduck
 firefox
 google-chrome
+google-chrome-canary
 google-drive
 google-hangouts
 handbrake
+imageoptim
 hyperdock
 imagealpha
 imageoptim
@@ -66,11 +69,12 @@ opera
 postgres
 private-internet-access
 sequel-pro
+silverlight
 sketch
+spectacle
 spotify
 steam
 silverlight
-sublime-text3
 transmission
 vagrant
 vagrant-manager
