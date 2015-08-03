@@ -17,11 +17,9 @@ brew doctor
 
 # Binaries
 binaries=(
-drush
 ffmpeg
 git
 grep
-ngrok
 node
 pngcrush
 python3
@@ -65,6 +63,7 @@ java
 libreoffice
 licecap
 namechanger
+ngrok
 opera
 postgres
 private-internet-access
