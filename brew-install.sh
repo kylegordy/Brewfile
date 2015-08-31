@@ -74,6 +74,7 @@ spectacle
 spotify
 steam
 silverlight
+the-unarchiver
 transmission
 vagrant
 vagrant-manager
