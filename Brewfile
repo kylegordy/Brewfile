@@ -44,6 +44,7 @@ cask "qlstephen"
 cask "rightfont"
 cask 'sequel-pro'
 cask "sketch"
+cask 'slack'
 cask 'spotify'
 cask 'steam'
 cask "spectacle"
